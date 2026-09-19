@@ -5,4 +5,4 @@ I gravitate toward distributed systems, event-driven architectures, and financia
  
 Lately I've been exploring AI agents as a way to streamline workflows.
  
-Get in touch: [LinkedIn](https://linkedin.com/in/jonathanberhe)
+Get in touch: [LinkedIn](https://www.linkedin.com/in/jonathan-berhe-software-engineer/)
